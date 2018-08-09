@@ -1,52 +1,13 @@
 # Definitions
 
-## Client
+## CLIENT
 
-## Client
+## CLIENT_ACCOUNT
 
-## Client
+## CLIENT_USER_ACCOUNT
 
-## Client3
+## CLIENT_USER_INTERFACE
 
-## Client
+## COMPANY_ACCOUNT
 
-## Client
-
-## Client
-
-## Client
-
-## Client
-
-## Client
-
-## Client
-## Client
-## Client
-## Client
-## Client
-## Client
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Client12
-
+## SOLUTION
